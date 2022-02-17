@@ -1,0 +1,25 @@
+hàm so sánh là so sánh từng chuỗi của mục chi để tìm kiếm mục chi theo tên
+ví dụ như là mua xe hay mua nhà,là nó sẽ hiện ra số tiền mua và vào ngày bao nhiêu
+.
+
+
+ class 
+ cũng khai báo các chuỗi các chuỗi và biến đại điện số tiền và thời gian và chi;
+
+
+
+  phần hàm Nhập
+  Nhập thông tin vào : chạy vòng lặp với số mục chi và tiêu trong tháng ,cùng với thời gian chi tiêu
+ hàm  xuất thông tin thì dựa vào số chi hoặc tiêu trong tháng chạy vòng for in ra tất cả các mục chi tiêu vào ngày nào cùng với số tiền 
+ Hàm sao kê 1 : xuất sao kê các khoản thu Nhập
+ hàm sao kê 2 :xuất các khoản chi
+ hàm xuất time:hàm tìm kiếm trong 1 khoảng tgian đã mua những j ,vào ngày nào ,với số tiền bao nhiêu;
+ hàm xuất mục: tìm kiếm mục chi theo tên ,mua mất bao nhiêu ,vào ngày nào;
+ hàm tổng chi : tính toán số tiền đã tiêu trong tháng,qua đó đưa ra cảnh báo việc vượt quá gới hạn số tiền dịnh tiêu hay không
+ menu : 3 cái này đăng nhập ,đk ,thoát ;
+ở phần thì chủ yếu là so sánh chuỗi để đăng nhập nhập hoặc đăng ký tìa khoản ,khi ng dùng đăng ký nhập sai hay khi nhập lại mật khẩu ,hệ thống ẽ bắt nhập lại
+khi tài khoản ta đăng nhập,và vào chương trình ;
+khi có tài khoản mà bạn đăng nhập sai,hệ thống ẽ báo lỗi và bắt nhập lại,sẽ đưa ra cảnh báo khi sai tên đăng nhập hoặc mật khẩu;
+đồng thời ,sau khi tạo tk ở phần đăng ký xong ,uéname và pass sẽ đc lưu trữ trong file input.txt;
+khi bạn đăng nhập thành công ,hệ thống sẽ dưa ra cho bạn hai sự lựa chọn là bắt đầu hoặc thoát
+khi bắt đầu ,ta đc 1 menu gồm các mục .......sau khi test các chức nănbg ,ta thoát chương trình ,chương trình sẽ tạm biệt bạn;
